@@ -1,8 +1,11 @@
 #laravel Porfolio Website
 
-Live Website URL:  ( https://hasanmint.xyz/protfolio-app/).
+Live Website URL:  ( https://hasanmint.xyz/protfolio-app/)
+
 Live Website Admin URL: (https://hasanmint.xyz/protfolio-app/login)
+
 Demo Admin Login: admin@gmail.com
+
 Demo Admin Password: admin@gmail.com
 
 ## Use Project Features 
